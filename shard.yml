@@ -1,0 +1,13 @@
+name: the-iron-searcher
+version: 0.1.0
+
+authors:
+  - Rafael Revi <rafael.e.revi@gmail.com>
+
+targets:
+  fe:
+    main: src/the_iron_searcher.cr
+
+crystal: 1.5.0
+
+license: MIT
